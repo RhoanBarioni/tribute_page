@@ -10,4 +10,4 @@
 <p>The site is responsive.</p>
 <hr>
 <p>Do u wanna see my site?</p>
-<p>Here is the <a href="" target="_blank">Link</a></p>
+<p>Here is the <a href="https://rhoanbarioni.github.io/tribute_page/" target="_blank">Link</a></p>
